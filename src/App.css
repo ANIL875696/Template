@@ -1,0 +1,36 @@
+/* @keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: .5;
+  }
+}
+.SetRight {
+  display: flex;
+  padding-left: 100px;
+}
+.SetRight1 {
+  display: flex;
+  padding-left: 300px;
+}
+@media screen and (max-width: 621px) {
+  body {
+    background-color: olive;
+  }
+}
+@media screen and (max-width: 621px) {
+  .SetMedia {
+    display: flex;
+ float: right;
+
+  }
+  @media screen and (max-width: 900px) and (min-width: 600px) {
+    div.example {
+      font-size: 50px;
+      padding: 50px;
+      border: 8px solid black;
+      background: yellow;
+    }
+  }
+} */
